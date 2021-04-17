@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EladHartung
 - 👀 I’m interested in showing my work
 - 🌱 I’m currently learning angular,c#, .net ,ts,js
-- 💞️ I’m looking to collaborate on ...
 - 📫 Send me a message
 
 <!---
